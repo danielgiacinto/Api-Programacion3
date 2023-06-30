@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api_2W1_CQRS.props" />
+</Project>
