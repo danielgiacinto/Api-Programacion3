@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hH3s2M1/D+/o+2xGcQrxmx2X1UrtFm56E+3cDo+aAhLBUQSxLoi2PHrOexBhp/X3JV2F/GVwOmVjW3eKgddqDg==",
+  "dgSpecHash": "zxo+KOYJAhoDT4GqXTHQg+Nrd8Ll0RjDlk5qBqv94JleUFoXREx91Jh8x0ZAm+M0ry299+KPTdx0Ya6VqwAgvw==",
   "success": true,
-  "projectFilePath": "D:\\Daniel\\Documentos\\DANIEL\\Programacion UTN\\3 CUATRI\\Programacion 3\\Unidad 3\\Practicos\\Api_2W1_CQRS\\Api_2W1_CQRS\\Api_2W1_CQRS.csproj",
+  "projectFilePath": "D:\\Daniel\\Documentos\\DANIEL\\Programacion UTN\\3 CUATRI\\Programacion 3\\Unidad 3\\Practicos\\Api-Programacion3\\Api_2W1_CQRS\\Api_2W1_CQRS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

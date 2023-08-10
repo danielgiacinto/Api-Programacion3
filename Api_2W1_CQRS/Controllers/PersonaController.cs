@@ -3,6 +3,7 @@ using Api_2W1_CQRS.Business.PersonaBusiness.Queries;
 using Api_2W1_CQRS.Models;
 using Api_2W1_CQRS.Resultados;
 using Api_2W1_CQRS.Services.PersonaBusiness.Commands;
+using Api_2W1_CQRS.Services.PersonaService.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -58,6 +59,19 @@ namespace Api_2W1_CQRS.Controllers
         public async Task<Persona> ActualizarPersona([FromBody] UpdatePersonaCommand comando)
         {
             return await _mediator.Send(comando);
+        }
+
+        [HttpGet]
+        [Route("personas/cantidad")]
+        public async Task<string> CantidadTotalPersonas()
+        {
+            return await _mediator.Send(new GetCantidadPersonasQuery());
+        }
+        [HttpGet]
+        [Route("personas/masculino")]
+        public async Task<string> CantidadTotalMasculino()
+        {
+            return await _mediator.Send(new GetCantidadMasculinoQuery());
         }
     }
 }

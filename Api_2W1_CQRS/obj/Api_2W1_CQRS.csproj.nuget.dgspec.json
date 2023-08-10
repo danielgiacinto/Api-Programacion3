@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Daniel\\Documentos\\DANIEL\\Programacion UTN\\3 CUATRI\\Programacion 3\\Unidad 3\\Practicos\\Api_2W1_CQRS\\Api_2W1_CQRS\\Api_2W1_CQRS.csproj": {}
+    "D:\\Daniel\\Documentos\\DANIEL\\Programacion UTN\\3 CUATRI\\Programacion 3\\Unidad 3\\Practicos\\Api-Programacion3\\Api_2W1_CQRS\\Api_2W1_CQRS.csproj": {}
   },
   "projects": {
-    "D:\\Daniel\\Documentos\\DANIEL\\Programacion UTN\\3 CUATRI\\Programacion 3\\Unidad 3\\Practicos\\Api_2W1_CQRS\\Api_2W1_CQRS\\Api_2W1_CQRS.csproj": {
+    "D:\\Daniel\\Documentos\\DANIEL\\Programacion UTN\\3 CUATRI\\Programacion 3\\Unidad 3\\Practicos\\Api-Programacion3\\Api_2W1_CQRS\\Api_2W1_CQRS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Daniel\\Documentos\\DANIEL\\Programacion UTN\\3 CUATRI\\Programacion 3\\Unidad 3\\Practicos\\Api_2W1_CQRS\\Api_2W1_CQRS\\Api_2W1_CQRS.csproj",
+        "projectUniqueName": "D:\\Daniel\\Documentos\\DANIEL\\Programacion UTN\\3 CUATRI\\Programacion 3\\Unidad 3\\Practicos\\Api-Programacion3\\Api_2W1_CQRS\\Api_2W1_CQRS.csproj",
         "projectName": "Api_2W1_CQRS",
-        "projectPath": "D:\\Daniel\\Documentos\\DANIEL\\Programacion UTN\\3 CUATRI\\Programacion 3\\Unidad 3\\Practicos\\Api_2W1_CQRS\\Api_2W1_CQRS\\Api_2W1_CQRS.csproj",
+        "projectPath": "D:\\Daniel\\Documentos\\DANIEL\\Programacion UTN\\3 CUATRI\\Programacion 3\\Unidad 3\\Practicos\\Api-Programacion3\\Api_2W1_CQRS\\Api_2W1_CQRS.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "D:\\Daniel\\Documentos\\DANIEL\\Programacion UTN\\3 CUATRI\\Programacion 3\\Unidad 3\\Practicos\\Api_2W1_CQRS\\Api_2W1_CQRS\\obj\\",
+        "outputPath": "D:\\Daniel\\Documentos\\DANIEL\\Programacion UTN\\3 CUATRI\\Programacion 3\\Unidad 3\\Practicos\\Api-Programacion3\\Api_2W1_CQRS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
